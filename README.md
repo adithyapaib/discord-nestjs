@@ -108,7 +108,7 @@ import { BotGateway } from './bot-gateway';
       ],
       webhook: {
         webhookId: 'your_webhook_id',
-        webhookToken: 'your_webhook_token',
+        webhookToken: 'your_webhook_token'
       },
       usePipes: [TransformPipe, ValidationPipe],
       // and other discord options
